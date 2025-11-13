@@ -11,7 +11,7 @@
         <!-- On configure le plugin permettant d'exécuter directement le programme avec maven -->
         <!-- On pourra exécuter le programme avec : 'mvn exec:java' -->
         <exec.mainClass>garages.Main</exec.mainClass>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
 
     <build>
